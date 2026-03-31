@@ -4,7 +4,7 @@
   "description": "Repositório destinado à atividade 5 da matéria de DevOps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run"
   },
   "repository": {
     "type": "module",
