@@ -1,0 +1,24 @@
+{
+  "name": "tdd-testes",
+  "version": "1.0.0",
+  "description": "Repositório destinado à atividade 5 da matéria de DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/sredward11/tdd-testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sredward11/tdd-testes/issues"
+  },
+  "homepage": "https://github.com/sredward11/tdd-testes#readme",
+  "devDependencies": {
+    "@vitest/ui": "^4.1.2",
+    "vitest": "^4.1.2"
+  }
+}
